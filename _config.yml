@@ -1,0 +1,21 @@
+title: "Gloria Zhang"
+description: "Personal portfolio of Gloria Zhang."
+url: "https://gloriazhangcx-hub.github.io"
+baseurl: ""
+
+markdown: kramdown
+permalink: pretty
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+author:
+  name: "Gloria Zhang"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - PLAN.md
+  - vendor
