@@ -7,7 +7,7 @@ permalink: /
 
 <section class="hero" aria-labelledby="page-title">
   <p class="eyebrow"><span class="eyebrow-rule" aria-hidden="true"></span> Personal portfolio</p>
-  <h1 id="page-title">A place for<br>my story and work.</h1>
+  <h1 id="page-title">A place for<br>my story.</h1>
   <p class="hero-copy">A home for my background, experience, and selected work.</p>
   <a class="text-link" href="{{ '/about/' | relative_url }}">Get to know me <span aria-hidden="true">↗</span></a>
 </section>

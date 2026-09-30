@@ -1,0 +1,1 @@
+- [Replit Jekyll preview SEO](jekyll-preview-seo.md) — verify GitHub Pages sitemap and Lighthouse on a standalone build; Replit preview can inject noindex and use bound-host URLs.
