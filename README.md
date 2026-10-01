@@ -6,12 +6,14 @@ configured to publish from the `main` branch and the repository root.
 
 ## Update the site
 
-- Edit `index.md`, `about.md`, `experience.md`, and `contact.md` to update page
-  content. Personal and career details are currently marked as placeholders.
+- Edit `index.md` to update the single-page introduction, About, Work Experience,
+  and Contact sections. Personal and career details are currently marked as
+  placeholders.
 - Change the shared design in `assets/css/site.css`.
+- The cat illustration is in `assets/images/lavender-cat.svg`.
 - Update the site title, description, URL, and plugin settings in `_config.yml`.
 - Keep `_config.yml`, `index.md`, `_layouts`, `_includes`, and `assets` in the
-  repository root for GitHub Pages root publishing.
+  repository root for GitHub Pages publishing.
 
 ## Preview locally
 

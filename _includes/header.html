@@ -1,15 +1,14 @@
 <a class="skip-link" href="#main-content">Skip to content</a>
-<header class="site-header">
+<header class="site-header" id="top">
   <div class="header-inner">
     <a class="brand" href="{{ '/' | relative_url }}">
       <span class="brand-mark" aria-hidden="true">G</span>
       <span class="brand-name">{{ site.title }}</span>
     </a>
     <nav class="site-nav" aria-label="Main navigation">
-      <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a>
-      <a href="{{ '/about/' | relative_url }}"{% if page.url == '/about/' %} aria-current="page"{% endif %}>About</a>
-      <a href="{{ '/experience/' | relative_url }}"{% if page.url == '/experience/' %} aria-current="page"{% endif %}>Work Experience</a>
-      <a href="{{ '/contact/' | relative_url }}"{% if page.url == '/contact/' %} aria-current="page"{% endif %}>Contact</a>
+      <a href="#about">About</a>
+      <a href="#experience">Work</a>
+      <a href="#contact">Contact</a>
     </nav>
   </div>
 </header>
