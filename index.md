@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Portfolio
-description: A one-page personal portfolio for Gloria Zhang.
+description: Portfolio of Gloria Zhang, an LBS MBA student on exchange at Berkeley Haas and former BCG Shanghai Associate.
 permalink: /
 ---
 
@@ -9,7 +9,7 @@ permalink: /
   <div class="hero-copy-block">
     <p class="eyebrow"><span class="eyebrow-rule" aria-hidden="true"></span> Personal portfolio</p>
     <h1 id="page-title">Hello, I’m <span class="hero-name">Gloria Zhang.</span></h1>
-    <p class="hero-copy placeholder">[Add a short introduction in your own words.]</p>
+    <p class="hero-copy">Ex-MBB consultant · LBS MBA student · Berkeley Haas exchange</p>
     <a class="button-link" href="#experience">A little about my work <span aria-hidden="true">↓</span></a>
   </div>
 
@@ -38,7 +38,7 @@ permalink: /
         <ellipse cx="26" cy="15" rx="3" ry="4" transform="rotate(27 26 15)" />
       </svg>
     </span>
-    <figcaption class="cat-caption">your tiny portfolio mascot</figcaption>
+    <figcaption class="cat-caption">Nuomi · 6 months old</figcaption>
   </figure>
 </section>
 
@@ -53,7 +53,8 @@ permalink: /
       <ellipse cx="26" cy="15" rx="3" ry="4" transform="rotate(27 26 15)" />
     </svg>
   </h2>
-  <p class="placeholder">[Write a short introduction about what you do, what you care about, or what you’d like visitors to know.]</p>
+  <p>I’m currently an MBA student at London Business School and doing my exchange at Berkeley Haas. Before my MBA, I worked as an Associate at BCG Shanghai.</p>
+  <p>Outside of work and study, I’m a foodie and love travelling. I also love cats, especially my six-month-old British Shorthair, Nuomi.</p>
 </section>
 
 <section class="content-section" id="experience" aria-labelledby="experience-title">
@@ -68,10 +69,10 @@ permalink: /
     </svg>
   </h2>
   <article class="experience-entry">
-    <p class="experience-date">[Dates]</p>
+    <p class="experience-date">Before my MBA</p>
     <div>
-      <h3>[Role title] <span>[Organization]</span></h3>
-      <p class="placeholder">[Add a brief description of your responsibilities, contributions, or project work.]</p>
+      <h3>Associate <span>BCG · Shanghai</span></h3>
+      <p>Before starting my MBA, I worked as an Associate at BCG in Shanghai.</p>
     </div>
   </article>
 </section>
@@ -87,7 +88,7 @@ permalink: /
       <ellipse cx="26" cy="15" rx="3" ry="4" transform="rotate(27 26 15)" />
     </svg>
   </h2>
-  <p class="placeholder">[Add any contact details you’d like to share publicly.]</p>
+  <p>For professional inquiries or a friendly hello, email me at <a href="mailto:gloriazhangcx@berkeley.edu">gloriazhangcx@berkeley.edu</a>.</p>
   <a class="text-link" href="https://github.com/gloriazhangcx-hub" target="_blank" rel="noopener noreferrer">
     Find me on GitHub <span aria-hidden="true">↗</span>
   </a>
