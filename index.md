@@ -25,9 +25,8 @@ permalink: /
     </span>
     <img
       class="cat-art"
-      src="{{ '/assets/images/lavender-cat.svg' | relative_url }}"
-      alt=""
-      aria-hidden="true"
+      src="{{ '/assets/images/nuomi-photo.jpg' | relative_url }}"
+      alt="Nuomi, Gloria’s British Shorthair, peeking around a curtain"
     >
     <span class="paw-print paw-print-two" aria-hidden="true">
       <svg viewBox="0 0 32 32" focusable="false">

@@ -10,7 +10,7 @@ configured to publish from the `main` branch and the repository root.
   and Contact sections. Personal and career details are currently marked as
   placeholders.
 - Change the shared design in `assets/css/site.css`.
-- The cat illustration is in `assets/images/lavender-cat.svg`.
+- Nuomi’s photo is in `assets/images/nuomi-photo.jpg`.
 - Update the site title, description, URL, and plugin settings in `_config.yml`.
 - Keep `_config.yml`, `index.md`, `_layouts`, `_includes`, and `assets` in the
   repository root for GitHub Pages publishing.
