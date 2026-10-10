@@ -1,1 +1,2 @@
 - [Replit Jekyll preview SEO](jekyll-preview-seo.md) — verify GitHub Pages sitemap and Lighthouse on a standalone build; Replit preview can inject noindex and use bound-host URLs.
+- [GitHub API vs. Git push](github-api-vs-git-push.md) — Replit’s GitHub OAuth proxy is for API calls and does not automatically authenticate shell `git push`.
